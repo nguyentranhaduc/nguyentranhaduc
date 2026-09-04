@@ -41,6 +41,8 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -57,7 +59,6 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat" />
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
 </p>
 
 ### 🗄️ Database & Storage
@@ -92,7 +93,6 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/GitOps-2088FF?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
@@ -110,8 +110,9 @@ I enjoy understanding how systems work under the hood and turning software into 
 ### 📨 Messaging & Distributed Systems
 
 <p>
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveMQ-D62027?style=flat" />
+  <img src="https://img.shields.io/badge/ActiveMQ-D62027?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6A5ACD?style=flat" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-4B5563?style=flat" />
   <img src="https://img.shields.io/badge/Asynchronous%20Processing-2563EB?style=flat" />
@@ -122,7 +123,7 @@ I enjoy understanding how systems work under the hood and turning software into 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gravity-7C3AED?style=flat" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
 
 ---
