@@ -2,7 +2,7 @@
 
 Software Engineer with years of hands-on experience building, deploying, and maintaining production-ready software systems.
 
-I'm passionate about technology and enjoy working across the stack, from building modern frontend applications and scalable backend services to designing CI/CD pipelines and managing production infrastructure. I leverage AI-assisted development tools to accelerate coding, debugging, refactoring, documentation, and problem-solving while maintaining code quality and engineering standards.
+I'm passionate about technology and enjoy working across the stack, from modern frontend applications and scalable backend services to CI/CD pipelines and production infrastructure. I use AI-assisted development to accelerate implementation, debugging, refactoring, and problem-solving, enabling faster development without compromising engineering quality.
 
 ---
 
