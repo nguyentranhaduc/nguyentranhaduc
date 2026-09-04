@@ -6,6 +6,32 @@ I'm passionate about technology and enjoy working across the stack, from buildin
 
 ---
 
+## 🛠️ Engineering Focus
+
+- Production-ready application development
+- Full-stack development
+- Backend architecture
+- Microservices architecture
+- Containerization & orchestration
+- Kubernetes & cloud-native infrastructure
+- CI/CD automation
+- GitOps workflows
+- Infrastructure automation
+- Monitoring & observability
+- Scalable and reliable systems
+- Performance optimization
+- Production troubleshooting
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build it. Automate it. Monitor it. Make it reliable.**
+
+I enjoy understanding how systems work under the hood and turning software into reliable, maintainable, and production-ready systems.
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
@@ -98,32 +124,6 @@ I'm passionate about technology and enjoy working across the stack, from buildin
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Gravity-7C3AED?style=flat" />
 </p>
-
----
-
-## 🛠️ Engineering Focus
-
-- Production-ready application development
-- Full-stack development
-- Backend architecture
-- Microservices architecture
-- Containerization & orchestration
-- Kubernetes & cloud-native infrastructure
-- CI/CD automation
-- GitOps workflows
-- Infrastructure automation
-- Monitoring & observability
-- Scalable and reliable systems
-- Performance optimization
-- Production troubleshooting
-
----
-
-## 💡 Engineering Philosophy
-
-> **Build it. Automate it. Monitor it. Make it reliable.**
-
-I enjoy understanding how systems work under the hood and turning software into reliable, maintainable, and production-ready systems.
 
 ---
 
