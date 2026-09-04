@@ -121,7 +121,7 @@ I enjoy understanding how systems work under the hood and turning software into 
 ### 🤖 AI & AI-Assisted Development
 
 <p>
-  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
