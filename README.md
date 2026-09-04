@@ -1,4 +1,4 @@
-# Hi, I'm a Software Engineer 👋
+# Hi, I'm a Software Engineer 👨‍💻
 
 Software Engineer with years of hands-on experience building, deploying, and maintaining production-ready software systems.
 
