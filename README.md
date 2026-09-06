@@ -92,6 +92,7 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/GitOps-2088FF?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
 ### 📊 Monitoring & Observability
