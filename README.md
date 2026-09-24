@@ -125,9 +125,3 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in software engineering, system architecture, cloud-native technologies, DevOps, AI-assisted development, and interesting technical challenges.
