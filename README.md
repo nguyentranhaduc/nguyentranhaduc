@@ -32,7 +32,7 @@ I enjoy understanding how systems work under the hood and turning software into 
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 The Current Tech Stack
 
 ### 🎨 Frontend
 
