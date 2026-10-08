@@ -6,6 +6,14 @@ I'm passionate about technology and enjoy working across the stack, from modern 
 
 ---
 
+## 💡 Engineering Philosophy
+
+> **Build it. Automate it. Monitor it. Make it reliable.**
+
+I enjoy understanding how systems work under the hood and turning software into reliable, maintainable, and production-ready systems.
+
+---
+
 ## 🛠️ Engineering Focus
 
 - Production-ready application development
@@ -21,14 +29,6 @@ I'm passionate about technology and enjoy working across the stack, from modern 
 - Scalable and reliable systems
 - Performance optimization
 - Production troubleshooting
-
----
-
-## 💡 Engineering Philosophy
-
-> **Build it. Automate it. Monitor it. Make it reliable.**
-
-I enjoy understanding how systems work under the hood and turning software into reliable, maintainable, and production-ready systems.
 
 ---
 
