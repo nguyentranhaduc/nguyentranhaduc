@@ -64,8 +64,6 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO-C72E29?style=flat&logo=minio&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/NFS-555555?style=flat" />
-  <img src="https://img.shields.io/badge/EFS-FF9900?style=flat&logo=amazonefs&logoColor=white" />
   <img src="https://img.shields.io/badge/Longhorn-00AEEF?style=flat&logo=longhorn&logoColor=white" />
 </p>
 
@@ -73,15 +71,14 @@ I enjoy understanding how systems work under the hood and turning software into 
 ### ☁️ DevOps & Infrastructure
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat&logo=k3s&logoColor=000000" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" />
 </p>
 
 
@@ -91,8 +88,6 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/GitOps-2088FF?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
@@ -109,19 +104,11 @@ I enjoy understanding how systems work under the hood and turning software into 
 ### 📨 Messaging & Distributed Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveMQ-D62027?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6A5ACD?style=flat" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-4B5563?style=flat" />
   <img src="https://img.shields.io/badge/Asynchronous%20Processing-2563EB?style=flat" />
-</p>
-
-### 🤖 AI & AI-Assisted Development
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
 </p>
