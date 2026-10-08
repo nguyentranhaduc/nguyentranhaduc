@@ -55,6 +55,18 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white" />
 </p>
 
+### 📨 Messaging & Distributed Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveMQ-D62027?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6A5ACD?style=flat" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-4B5563?style=flat" />
+  <img src="https://img.shields.io/badge/Asynchronous%20Processing-2563EB?style=flat" />
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
+</p>
+
 ### 🗄️ Database & Storage
 
 <p>
@@ -99,16 +111,4 @@ I enjoy understanding how systems work under the hood and turning software into 
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white" />
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white" />
-</p>
-
-### 📨 Messaging & Distributed Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveMQ-D62027?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6A5ACD?style=flat" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-4B5563?style=flat" />
-  <img src="https://img.shields.io/badge/Asynchronous%20Processing-2563EB?style=flat" />
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat" />
 </p>
